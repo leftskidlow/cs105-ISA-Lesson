@@ -1,4 +1,4 @@
-# CS105 Cache Lesson Outline
+# CS105 Instruction Set Architecture Lesson Outline
 
 ## Resources
 [Instruction Set Architecture](http://www.cs.kent.edu/~durand/CS0/Notes/Chapter05/isa.html)
