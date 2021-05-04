@@ -19,11 +19,11 @@
 
 - Learning Standard 1
   - Demonstrate understanding of the purpose of Instruction Set Architecture in the computer architecture heirarchy
-- LSA 2
+- Learning Standard 2
   - Understand hardware / software interfaces and the fundamental differences in CISC vs RISC design practices
-- LSA 3
+- Learning Standard 3
   - Apply a working knowledge of binary instructions through a Python language implementation
-- LSA 4
+- Learning Standard 4
   - Understand how instructions are processed from a highly sophisticated langauge like Python through computer architectures to arrive at binary instructions for hardware
 
 There are several "models" of learning, I am using an the models I was trained on [Instructor's Manual, Chpt 3, pg 15](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/media/05_aih_chapter_3.pdf), it is geared more toward the adult learner than most of the childhood models I have found, though really there aren't too many diffrences. Essentially there are four basic levels of learning, remembered with the mnemonic RUAC:
